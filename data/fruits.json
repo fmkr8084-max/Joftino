@@ -1,0 +1,122 @@
+[
+ {
+  "id": "fruit-apple",
+  "name": "سیب",
+  "image": "images/fruits/apple.webp"
+ },
+ {
+  "id": "fruit-banana",
+  "name": "موز",
+  "image": "images/fruits/banana.webp"
+ },
+ {
+  "id": "fruit-strawberry",
+  "name": "توت‌فرنگی",
+  "image": "images/fruits/strawberry.webp"
+ },
+ {
+  "id": "fruit-watermelon",
+  "name": "هندوانه",
+  "image": "images/fruits/watermelon.webp"
+ },
+ {
+  "id": "fruit-orange",
+  "name": "پرتقال",
+  "image": "images/fruits/orange.webp"
+ },
+ {
+  "id": "fruit-grape",
+  "name": "انگور",
+  "image": "images/fruits/grape.webp"
+ },
+ {
+  "id": "fruit-pineapple",
+  "name": "آناناس",
+  "image": "images/fruits/pineapple.webp"
+ },
+ {
+  "id": "fruit-cherry",
+  "name": "گیلاس",
+  "image": "images/fruits/cherry.webp"
+ },
+ {
+  "id": "fruit-lemon",
+  "name": "لیمو",
+  "image": "images/fruits/lemon.webp"
+ },
+ {
+  "id": "fruit-peach",
+  "name": "هلو",
+  "image": "images/fruits/peach.webp"
+ },
+ {
+  "id": "fruit-pear",
+  "name": "گلابی",
+  "image": "images/fruits/pear.webp"
+ },
+ {
+  "id": "fruit-kiwi",
+  "name": "کیوی",
+  "image": "images/fruits/kiwi.webp"
+ },
+ {
+  "id": "fruit-pomegranate",
+  "name": "انار",
+  "image": "images/fruits/pomegranate.webp"
+ },
+ {
+  "id": "fruit-melon",
+  "name": "خربزه",
+  "image": "images/fruits/melon.webp"
+ },
+ {
+  "id": "fruit-mango",
+  "name": "انبه",
+  "image": "images/fruits/mango.webp"
+ },
+ {
+  "id": "fruit-coconut",
+  "name": "نارگیل",
+  "image": "images/fruits/coconut.webp"
+ },
+ {
+  "id": "fruit-fig",
+  "name": "انجیر",
+  "image": "images/fruits/fig.webp"
+ },
+ {
+  "id": "fruit-avocado",
+  "name": "آووکادو",
+  "image": "images/fruits/avocado.webp"
+ },
+ {
+  "id": "fruit-persimmon",
+  "name": "خرمالو",
+  "image": "images/fruits/persimmon.webp"
+ },
+ {
+  "id": "fruit-plum",
+  "name": "آلو",
+  "image": "images/fruits/plum.webp"
+ },
+ {
+  "id": "fruit-blueberry",
+  "name": "بلوبری",
+  "image": "images/fruits/blueberry.webp"
+ },
+ {
+  "id": "fruit-dragonfruit",
+  "name": "دراگون‌فروت",
+  "image": "images/fruits/dragonfruit.webp"
+ },
+ {
+  "id": "fruit-lychee",
+  "name": "لیچی",
+  "image": "images/fruits/lychee.webp"
+ },
+ {
+  "id": "fruit-papaya",
+  "name": "پاپایا",
+  "image": "images/fruits/papaya.webp"
+ }
+]
