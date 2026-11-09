@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>جفتینو</title><meta name="theme-color" content="#9DD9F3">
+<link rel="manifest" href="./manifest.json"><link rel="apple-touch-icon" href="./icons/apple-touch-icon.png">
+<link rel="stylesheet" href="./style.css"></head><body>
+<!-- صفحه اصلی -->
+<section id="home" class="scr">
+ <div class="bar"><span class="pill">⭐ <b id="cStar">0</b></span><span class="pill">🏆 <b id="cCup">0</b></span><span class="sp"></span><button class="round" data-go="settings" aria-label="تنظیمات">⚙️</button></div>
+ <div class="hero"><img class="mascot" src="images/ui/chamomile.webp" alt=""><div class="plank"><img src="images/ui/sign-plank.webp" alt=""><h1>جفتینو</h1></div></div>
+ <div class="modes">
+  <button class="mode calm" data-mode="calm"><span class="ico">🌼</span><b>حالت آرامش</b><small>با خیال راحت بازی کن</small><i>▶</i></button>
+  <button class="mode chal" data-mode="challenge"><span class="ico">🏆</span><b>حالت چالشی</b><small>خودت رو به چالش بکش</small><i>▶</i></button>
+ </div>
+ <div class="menu"><button class="round big" data-go="records">📊<small>رکوردها</small></button><button class="round big" data-go="about">ℹ️<small>درباره‌ی من</small></button></div>
+</section>
+<!-- انتخاب مجموعه -->
+<section id="sets" class="scr" hidden><button class="back" data-go="home">➜</button><h2>مجموعه را انتخاب کن</h2>
+ <div class="modes"><button class="mode calm" data-set="animals"><span class="ico">🐱</span><b>حیوانات</b></button><button class="mode chal" data-set="fruits"><span class="ico">🍓</span><b>میوه‌ها</b></button></div></section>
+<!-- نقشه مرحله‌ها -->
+<section id="map" class="scr" hidden><div class="bar"><button class="back" data-go="sets">➜</button><span class="pill">⭐ <b class="cStar">0</b></span><span class="pill">🏆 <b class="cCup">0</b></span></div>
+ <div id="path"></div>
+ <div class="mapbar"><button class="round" id="nx">▶</button><div class="plank sm"><img src="images/ui/sign-arrow.webp" alt=""><span id="chapT"></span></div><button class="round" id="pv">◀</button></div>
+ <label class="two" id="twoBox"><input type="checkbox" id="two"> دو نفره</label></section>
+<!-- بازی -->
+<section id="game" class="scr" hidden><div class="bar"><button class="back" id="gBack">➜</button><span class="pill" id="gL"></span><span class="pill">حرکت: <b id="gM">0</b></span><span class="pill" id="gT"></span><button class="round" id="gR">🔄</button></div>
+ <div id="turn"></div><div id="grid"></div></section>
+<!-- نتیجه -->
+<section id="result" class="scr" hidden><img class="mascot" src="images/ui/chamomile.webp" alt=""><h2 id="rT"></h2><p id="rS"></p><p id="rD"></p>
+ <div class="row"><button class="btn" id="rN">مرحله‌ی بعد</button><button class="btn" id="rR">دوباره</button><button class="btn" id="rM">نقشه</button></div></section>
+<!-- رکوردها و آمار -->
+<section id="records" class="scr" hidden><button class="back" data-go="home">➜</button><h2>رکوردها و آمار</h2>
+ <div class="row"><button class="btn" data-tab="rec">رکوردها</button><button class="btn" data-tab="stat">آمار کلی</button></div><div id="recBox" class="box"></div></section>
+<!-- تنظیمات -->
+<section id="settings" class="scr" hidden><button class="back" data-go="home">➜</button><h2>تنظیمات</h2>
+ <div class="box"><label><input type="checkbox" id="sSnd"> صدا</label><label><input type="checkbox" id="sVib"> لرزش</label><button class="btn" id="sClr">پاک کردن پیشرفت</button></div></section>
+<!-- درباره -->
+<section id="about" class="scr" hidden><button class="back" data-go="home">➜</button><img class="mascot" src="images/ui/chamomile.webp" alt=""><div class="box" id="aboutBox"></div></section>
+<div id="msg" hidden></div><div id="upd" hidden>نسخه‌ی جدید آماده است — <button id="updB">به‌روزرسانی</button></div>
+<script src="app.js"></script></body></html>
