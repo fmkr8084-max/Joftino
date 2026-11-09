@@ -1,0 +1,122 @@
+[
+ {
+  "id": "animal-cat",
+  "name": "گربه",
+  "image": "images/animals/cat.webp"
+ },
+ {
+  "id": "animal-dog",
+  "name": "سگ",
+  "image": "images/animals/dog.webp"
+ },
+ {
+  "id": "animal-rabbit",
+  "name": "خرگوش",
+  "image": "images/animals/rabbit.webp"
+ },
+ {
+  "id": "animal-fox",
+  "name": "روباه",
+  "image": "images/animals/fox.webp"
+ },
+ {
+  "id": "animal-panda",
+  "name": "پاندا",
+  "image": "images/animals/panda.webp"
+ },
+ {
+  "id": "animal-penguin",
+  "name": "پنگوئن",
+  "image": "images/animals/penguin.webp"
+ },
+ {
+  "id": "animal-bear",
+  "name": "خرس",
+  "image": "images/animals/bear.webp"
+ },
+ {
+  "id": "animal-lion",
+  "name": "شیر",
+  "image": "images/animals/lion.webp"
+ },
+ {
+  "id": "animal-tiger",
+  "name": "ببر",
+  "image": "images/animals/tiger.webp"
+ },
+ {
+  "id": "animal-elephant",
+  "name": "فیل",
+  "image": "images/animals/elephant.webp"
+ },
+ {
+  "id": "animal-giraffe",
+  "name": "زرافه",
+  "image": "images/animals/giraffe.webp"
+ },
+ {
+  "id": "animal-monkey",
+  "name": "میمون",
+  "image": "images/animals/monkey.webp"
+ },
+ {
+  "id": "animal-koala",
+  "name": "کوآلا",
+  "image": "images/animals/koala.webp"
+ },
+ {
+  "id": "animal-frog",
+  "name": "قورباغه",
+  "image": "images/animals/frog.webp"
+ },
+ {
+  "id": "animal-owl",
+  "name": "جغد",
+  "image": "images/animals/owl.webp"
+ },
+ {
+  "id": "animal-duck",
+  "name": "اردک",
+  "image": "images/animals/duck.webp"
+ },
+ {
+  "id": "animal-pig",
+  "name": "خوک",
+  "image": "images/animals/pig.webp"
+ },
+ {
+  "id": "animal-cow",
+  "name": "گاو",
+  "image": "images/animals/cow.webp"
+ },
+ {
+  "id": "animal-sheep",
+  "name": "گوسفند",
+  "image": "images/animals/sheep.webp"
+ },
+ {
+  "id": "animal-horse",
+  "name": "اسب",
+  "image": "images/animals/horse.webp"
+ },
+ {
+  "id": "animal-turtle",
+  "name": "لاک‌پشت",
+  "image": "images/animals/turtle.webp"
+ },
+ {
+  "id": "animal-dolphin",
+  "name": "دلفین",
+  "image": "images/animals/dolphin.webp"
+ },
+ {
+  "id": "animal-squirrel",
+  "name": "سنجاب",
+  "image": "images/animals/squirrel.webp"
+ },
+ {
+  "id": "animal-hedgehog",
+  "name": "خارپشت",
+  "image": "images/animals/hedgehog.webp"
+ }
+]
